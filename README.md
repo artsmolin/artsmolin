@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 #### Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&color=000)
+
 
 <!--
 **artsmolin/artsmolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
