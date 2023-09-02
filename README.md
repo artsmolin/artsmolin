@@ -5,6 +5,8 @@ Experienced back-end developer with a demonstrated history of working in the inf
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&color=000)
 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/artursmolin)
+
 
 <!--
 **artsmolin/artsmolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
