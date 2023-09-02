@@ -1,8 +1,8 @@
-### Hi there 👋
+Hi all, I'm Artur 👋
 
-#### Stack
+Experienced back-end developer with a demonstrated history of working in the information technology and services industry. Skilled in `Python`. Now I 'm studying `Go`. Strong engineering professional with a Bachelor's degree focused in Physics from Kazan State University.
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&color=000)
 
 
