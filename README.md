@@ -1,6 +1,6 @@
 Hi all, I'm Artur 👋
 
-Experienced back-end developer with a demonstrated history of working in the information technology and services industry. Skilled in `Python`. Now I 'm studying `Go`. Strong engineering professional with a Bachelor's degree focused in Physics from Kazan State University.
+Experienced back-end developer with a demonstrated history of working in the information technology and services industry. Skilled in `python` and `go`. Strong engineering professional with a Bachelor's degree focused in Physics from Kazan State University.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&color=000)
